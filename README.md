@@ -34,6 +34,3 @@ Danach kannst du das Script **von überall** aus aufrufen:
 urls https://example.com
 ```
 ---
-## 📄 Lizenz
-
-MIT
